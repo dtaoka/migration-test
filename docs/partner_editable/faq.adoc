@@ -1,0 +1,86 @@
+== FAQ
+
+*Q: What is a workload?*
+
+A workload is a service or product or application from an ISV that will
+be migrated to AWS.
+
+*Q: What are 6Rs?*
+
+[cols=",",,]
+|===
+|Rehost _(“lift and shift”)_ |We find that the majority of applications
+are rehosted. Most rehosting can be automated with tools such
+as https://aws.amazon.com/cloud-migration/#sms[AWS SMS] although you may
+prefer to do this manually as you learn how to apply your legacy systems
+to the cloud.
+|Replatform _(“lift, tinker and shift”)_ |This entails making a few
+cloud optimizations in order to achieve some tangible benefit without
+changing the core architecture of the application. For example, you may
+be looking to reduce the amount of time you spend managing database
+instances by migrating to a managed relational database service such
+as https://aws.amazon.com/rds/[Amazon Relational Database Service
+(RDS)], or migrating your application to a fully managed platform
+like https://aws.amazon.com/elasticbeanstalk/[AWS Elastic Beanstalk].
+
+|Repurchase _(“drop and shop”)_ |This is a decision to move to a
+different product and likely means your organization is willing to
+change the existing licensing model you have been using. For workloads
+that can easily be upgraded to newer versions, this strategy might allow
+a feature set upgrade and smoother implementation.
+
+|Refactoring / Re-architecting |Typically, this is driven by a strong
+business need to add features, scale, or performance that would
+otherwise be difficult to achieve in the application’s existing
+environment. If your organization is looking to boost agility or improve
+business continuity by moving to a service-oriented architecture (SOA)
+this strategy may be worth pursuing - even though it is often the most
+expensive solution.
+
+|Retire |Identifying IT assets that are no longer useful and can be
+turned off will help boost your business case and direct your attention
+towards maintaining the resources that are widely used.
+
+|Retain |You may want to retain portions of your IT portfolio because
+there are some applications that you are not ready to migrate and feel
+more comfortable keeping them on-premises, or you are not ready to
+prioritize an application that was recently upgraded and then make
+changes to it again.
+|===
+
+*Q: What are the common security requirements?*
+
+[cols=",",,]
+|===
+|Network Security a|
+* Firewall (NACL/Security Group) rules
+* IDS/IPS
+* WAF
+* Bastion Hosts
+* Private/Public Subnets
+* Hybrid/External connectivity, IP whitelisting & AWS PrivateLink etc.
+
+|Data Security a|
+* Encryption (at rest/in transit)
+* Data resiliency & replication
+* Data availability and Integrity
+
+|User Access a|
+* Users/Roles/Cross account access etc.
+* Authentication/Authorization/MFA
+
+|Governance and Compliance a|
+* Audit requirements
+* Any compliance certifications needed etc.
+
+|Monitoring and Incident Management a|
+* Security assessments
+* Proactive threat management
+* Logging & Analysis
+* Traffic pattern analysis
+
+|Disaster Recovery and Business Continuity a|
+* Replication
+* Failover
+
+|===

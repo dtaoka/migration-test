@@ -1,0 +1,18 @@
+=== Epic: Discovery & Assessment
+
+* Workload Discovery activities
+* Environment Documentation activities
+* ISV software sizing activities
+** Activities related to identifying the right sizing of ISV instances and associated workload etc.
+* TCO activities
+** On-premises deployment cost activities
+** Cost of running on AWS activities (Migration cost + credits) 
+
+[cols=",,,",options="header",]
+|===
+|Task/Activity |Description |Skills/Role Required |Estimated Duration
+| | | |
+| | | |
+| | | |
+|===
+

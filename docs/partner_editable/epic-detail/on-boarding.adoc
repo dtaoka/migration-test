@@ -1,0 +1,15 @@
+=== Epic: On-boarding New Customer Activities
+
+Overview of customer on-boarding activities
+
+* MSP /AMS model activities
+* SaaS model activities
+
+[cols=",,,",options="header",]
+|===
+|Task/Activity |Description |Skills/Role Required |Estimated Duration
+| | | |
+| | | |
+| | | |
+|===
+

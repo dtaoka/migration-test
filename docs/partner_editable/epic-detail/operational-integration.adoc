@@ -1,0 +1,16 @@
+=== Epic: Operational Integration
+
+Overview of operational integration activities
+
+* Runbooks (Application, Operational, Cloud Services etc.) related activities
+* Monitoring activities
+* Backup strategy activities
+
+[cols=",,,",options="header",]
+|===
+|Task/Activity |Description |Skills/Role Required |Estimated Duration
+| | | |
+| | | |
+| | | |
+|===
+

@@ -1,0 +1,3 @@
+[submodule "docs/boilerplate"]
+	path = docs/boilerplate
+	url = git@github.com:aws-quickstart/migrations-documentation-base-common.git

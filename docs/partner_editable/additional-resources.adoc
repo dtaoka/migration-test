@@ -1,0 +1,18 @@
+== Additional Resources
+
+=== ISV Partner Resource Links
+* Product overview
+* link:https://aws.amazon.com/marketplace[AWS Marketplace link]
+* Blog post
+	
+=== SI partner Resource Links
+•	Solution Landing page
+•	Blog post
+
+=== AWS Resource Links [Update with relevant link to the post/document/links]
+* link:https://aws.amazon.com/getting-started/tutorials/[Demo Migrations]
+* link:https://aws.amazon.com/quickstart/[Quick Start]
+* link:https://docs.aws.amazon.com/index.html[Documentation]
+* link:https://aws.amazon.com/blogs/database/category/migration/[Blog Posts]
+* link:https://aws.amazon.com/whitepapers/[White papers]
+* link:https://aws.amazon.com/getting-started/tutorials/[Tutorials & Videos]

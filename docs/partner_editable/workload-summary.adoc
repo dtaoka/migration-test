@@ -1,0 +1,12 @@
+*Workload Summary*
+
+[cols=",",stripes=even]
+|===
+|What problem this workload solves |
+|How does the customer use the workload |
+|Business drivers |
+|Who is it intended for |
+|Migration description |
+|===
+
+

@@ -1,0 +1,32 @@
+== Contacts
+
+=== ISV Contacts
+
+[cols=",,",options="header",]
+|===
+|Name |Role/Title |Contact (Email/Phone)
+| |ISV Alliance Manager |
+| |Cloud Product Manager |
+| |Migration Engineer/Proserv |
+|===
+
+=== SI Contacts
+
+[cols=",,",options="header",]
+|===
+|Name |Role/Title |Contact (Email/Phone)
+| |SI Alliance Manager |
+| |Cloud Practice Manager |
+| |Migration Engineer |
+|===
+
+=== AWS Contacts
+
+[cols=",,",options="header",]
+|===
+|Name |Role/Title |Contact (Email/Phone)
+| |ISV Success Manager |
+| |SI Practice Manager |
+| |Partner Solutions Architect |
+|===
+

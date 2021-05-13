@@ -1,0 +1,25 @@
+=== Epic: New Environment Setup Activities (for SAS customers new to AWS) 
+
+Overview of new environment setup activities
+
+* link:https://aws.amazon.com/answers/aws-landing-zone/[Landing Zone] setup activities
+** Multi account structure
+** Min security baseline
+** Automated way of provisioning new accounts with min security baseline and ISV pre-requisites (networking, security configuration etc.)
+** Notifications, centralized logging and monitoring etc.
+* ISV software configuration activities
+** Configurations that need to be made as part of migration (product, workload configurations/changes)
+* link:https://aws-quickstart.github.io/index.html[Quick Start](s) Guide activities
+** Instructions on using quick starts etc.
+* Infrastructure as Code activities 
+** CloudFormation or Terraform configuration/changes etc.
+
+
+[cols=",,,",options="header",]
+|===
+|Task/Activity |Description |Skills/Role Required |Estimated Duration
+| | | |
+| | | |
+| | | |
+|===
+

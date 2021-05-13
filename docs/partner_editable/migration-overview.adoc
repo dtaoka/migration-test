@@ -1,0 +1,57 @@
+== Playbook Overview
+
+[cols=",,"]
+|===
+.3+^.^|*Playbook* .^|Migration Pattern Categories a| * Industry vertical 
+* Business Domain (e.g. Analytics, Middleware, Business Software, Content Management, Security, Network Infrastructure, ERP, and Database etc.) 
+| Actual number of migrations done using the playbook | This will start out with 1 or 2. Purpose is to track migration pipeline as the playbook is used
+| Target number of migrations to be done using the playbook | How many customers in your pipeline to be migrated with this playbook.
+
+.4+^.^|*Workload* |Source Workload a| * Workload/Product/Service Name
+* Version
+|Source Environment a| * Operating System
+* System configuration (CPU, Memory, I/O, Network configuration details)
+* Deployment model (on-prem/colocation/non-AWS environment)
+|Destination Workload a| * SaaS
+* Lift-Shift
+* Destination supported workload version(s)
+|Destination Environment a| * Deployment model (Customer account, SI partner account (MSP), ISV account (MSP or SaaS)
+* Operating model (AMS/MSP(SI/ISV))
+
+.6+^.^|*Migration* |Migration Strategy (6Rs) | Define your link:https://aws.amazon.com/cloud-migration/[migration] strategy
+|Is this an upgrade in workload version? | Yes/No
+|Is the source workload different than ISV workload? | Yes (Identify source workload)/No
+|Migration Duration a| * Deployment Size (ex: T-shirt sizes) or Consumption model 
+* Migration Duration - how long will it take to complete the migration based on deployment size
+| ISV Add-on details from link:https://aws.amazon.com/answers/aws-landing-zone/[AWS Landing Zone] or link:https://aws.amazon.com/controltower/[Control Tower] | If available, link to CFTs or guidance/Not Applicable
+| link:https://aws-quickstart.github.io/index.html[Quick Start] link to provision workload infrastructure on AWS | If available, link to the Quick Start used as part of the migration
+
+.2+^.^|*Cost* |Cost of Running ISV workload on AWS | Link to the ISV workload cost calculation
+|Cost of Running ISV associated workload that is getting migrated to AWS | Total cost of running ISV associated workload on AWS
+
+.8+^.^|*Assumptions & Prerequisites* |System Limitations (min/max requirements) a|* Data/Database size
+* CPU
+* Memory
+* Network
+* Number of Users
+|SLAs a|* Availability
+* Durability
+* Credit details in case of SLA failure etc.
+|Recovery Time Objective (RTO) | Time it takes after a disruption to restore a business process to its service level
+|Recovery Point Objective (RPO) | Acceptable amount of data loss measured in time
+|Licensing / Operating Model (Target AWS Account) a| * BYOL
+* SaaS
+* Managed Service
+|Migration Tooling a| * Discovery Tooling (link:https://aws.amazon.com/application-discovery/[AWS], link:https://aws.amazon.com/migration/partner-solutions/#discovery-planning[Migration ISV] and other custom tooling)
+* Mobility (Server, Data, Database, Configuration) Tooling (link:https://aws.amazon.com/cloud-migration/#tools-and-services[AWS] and link:https://aws.amazon.com/migration/partner-solutions/#workload-mobility[Migration ISV])
+* Migration Monitoring (APM etc.)
+* Automation Scripts
+|AWS Services Used a| * List of AWS services used
+|Benchmarks a| * Metrics
+* Performance testing etc.
+
+.3+^.^|*Compliance* |Security Compliance Requirements a| * List the security compliance requirements
+|Other https://aws.amazon.com/compliance/programs[Compliance Certifications] a| * List compliances of final solution 
+| AWS Well Architected Review Completed? | Yes (Date)/No
+
+|===

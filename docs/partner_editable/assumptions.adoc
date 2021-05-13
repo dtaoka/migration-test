@@ -1,0 +1,10 @@
+
+== Assumptions and Prerequisites
+
+Any assumptions or prerequisites for migration
+
+*Action:* Provide a list of prerequisites for using this playbook. Attach appendixes in case of longer prescriptive content for each line item in this section. Which might be RACIs, Design document templates, Deliverable templates, Process documentation etc.
+
+=== Assumptions and Prerequisites guideline checklist
+* Human Resource/Roles required for performing migration and operational integration
+* Required software, services, and tools

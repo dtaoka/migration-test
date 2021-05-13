@@ -1,0 +1,77 @@
+== Appendix 
+
+*May include: Runbooks, RACIs, Design document templates, Deliverable templates, Process documentation, Best practices, and pricing models etc.*
+
+=== Business Drivers 
+* 3 key factors to consider with regard to the business drivers:
+** Necessity
+** Benefits
+** Force multipliers
+* Typical business drivers for migration are:
+** Agility
+** Data Center Consolidation
+** Innovation & Digital Transformation
+** Cost Reduction
+** Acquisitions or Divestitures
+** Large scale compute intensive work loads (HPC & Big Data)
+** Facility or Real-estate decisions
+** Colocation or outsourcing contract changes
+** New C-level executive perspective
+** Durability, Availability requirements
+
+=== Customer Cloud Migration Business Drivers
+* Cost savings
+** Better infrastructure model (right sizing, RIs etc.)
+** Pay as you go licensing
+** Moving off of commercial licensed software
+* Agility. Faster time to market
+* Breadth of functionality
+* Durability (via HA architecture using Regions and AZs)
+* ISV Vendor support
+* Cloud adoption
+* Best practices from AWS + ISV + SIs (addressing concern like “What’s the best way to run this product”)
+
+=== ISV Cloud Migration Drivers
+* Customer retention
+* Customer adoption (A→B migrations)
+* More sales channels (AWS & SI)
+* Accelerates customer adoption of cloud native solutions (If they have SaaS offering)
+* Scale production adoption via Sis
+* Cost savings for customers via funding channels
+* Paves the path for SaaS/Cloud native solution
+* Predictability of product license renewals via single pane of lens (SIs)/Channels
+* Aids in building secure & scalable product on AWS
+* Leverage resources from AWS & SI
+
+=== SI Cloud Migration Drivers
+* Consulting services of migration effort
+* MSP revenue
+* Repeatable playbook to rely on
+** Predictable migrations
+* More opportunities within the customer account (cross selling)
+* More opportunities via alliance with ISV/AWS
+
+=== Migration Tools
+* Assessment and Discovery Tools
+** link:https://mra-proserve.amazonaws.com/[Migration Readiness and Assessment]
+** link:https://mpa-proserve.amazonaws.com/[Migration Portfolio Assessment]
+** link:https://aws.amazon.com/application-discovery/[Application Discovery Service (ADS)]
+** link:https://tsologic.com/[TSO Logic]
+** link:https://confluence.aws-proserve.org/confluence/[Migration Central] for Migration Best Practices]
+* Application/Server Migration Tools
+** link:https://www.cloudendure.com/[Cloud Endure]
+** link:https://aws.amazon.com/server-migration-service/[Server Migration Service (SMS)]
+* link:https://aws.amazon.com/solutions/database-migrations/[Database Migration Tools]
+** link:https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html[Schema Conversion Tool (SCT)]
+** link:https://aws.amazon.com/dms/[Database Migration Service (DMS)]
+* link:https://aws.amazon.com/cloud-data-migration/[Data Migration Tools]
+** link:https://aws.amazon.com/storagegateway/[AWS Storage Gateway]
+** link:https://aws.amazon.com/datasync/[AWS DataSync]
+** link:https://aws.amazon.com/directconnect/[Direct Connect]
+** link:https://aws.amazon.com/snowball/[Snowball]
+** link:https://aws.amazon.com/kinesis/data-firehose/[Kinesis Data Firehose]
+* Migration Management
+** link:https://aws.amazon.com/migration-hub/[Migration Hub]
+* Migration Partners
+** link:https://aws.amazon.com/migration/partner-solutions/[Partner Solutions]
+

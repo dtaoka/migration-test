@@ -1,0 +1,14 @@
+=== Epic: Networking Activities
+
+Overview of networking activities
+
+* Network security and setup activities
+
+[cols=",,,",options="header",]
+|===
+|Task/Activity |Description |Skills/Role Required |Estimated Duration
+| | | |
+| | | |
+| | | |
+|===
+

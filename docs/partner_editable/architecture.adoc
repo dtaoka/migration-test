@@ -1,0 +1,10 @@
+== Architecture 
+
+*Action:* Provide a description of solution architecture used to build the workload. Be sure to include relevant visual representations of how each service is used and how they interact with each other. These should include both AWS and on-premises workload (workload/application/service/product) architectures. 
+
+=== Architecture guideline checklist
+* Target Architecture of ISV workload on AWS
+* Source Environment Architecture Diagrams (optional)
+* Migration Workflow Diagrams
+* Destination Architecture Diagrams
+* Target Technology Stack

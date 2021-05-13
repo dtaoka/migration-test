@@ -1,0 +1,12 @@
+=== Epic: Software Deployment and Migration Activities
+
+Overview of software deployment activities
+
+[cols=",,,",options="header",]
+|===
+|Task/Activity |Description |Skills/Role Required |Estimated Duration
+| | | |
+| | | |
+| | | |
+|===
+

@@ -1,0 +1,8 @@
+== Automation and Tooling
+
+*Action:* Provide a list of automation scripts and tools used in the migration. Be sure to add descriptions and “How To” guidelines. Common migration tools are available in Appendix.
+
+=== Automation and Tooling guideline checklist
+* Automation scripts for migration or operational activities
+* List of tools used
+* “How To” guidelines

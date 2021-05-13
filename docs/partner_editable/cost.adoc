@@ -1,0 +1,7 @@
+== Cost and Licenses
+
+*Action:* Provide information about the cost of running infrastructure on AWS and licensing requirements for the workload being migrated. Be sure to include a link to the respective calculation of your choice. Use link:https://calculator.s3.amazonaws.com/index.html[AWS TCO Calculator or Simple Monthly Calculator] or link:http://mpa-proserve.amazonaws.com/[Migration Portfolio Assessment Tool] or any link:https://aws.amazon.com/migration/partner-solutions/#discovery-planning[other third party tools] to put together a cost model of running the workload on AWS.
+
+=== Cost and Licenses guideline checklist
+* TCO Calculator or Simple Monthly Calculator
+* Required Licenses

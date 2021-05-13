@@ -1,0 +1,41 @@
+// Do not remove ":migrations-guide:"
+:migrations-guide:
+
+:wmp-project-name: migrations-sitecore
+:doc_title: Workload Migration Playbook Template
+:doc-month: February
+:doc-year: 2021
+:partner-contributors: John Smith, AWS Professional Services
+:wmp-contributors: Dan Taoka, Workload Migration Program
+
+//Define sections needed 
+:summary: yes
+:workload-summary: yes
+
+:migration-overview: yes
+:cost: yes
+:aws-cost: yes
+:architecture: yes
+:assumptions: yes
+:migration-steps: yes
+:epics: yes
+:automation: yes
+:contacts: yes
+:faq: yes
+:additional-resources: yes
+:appendix: yes
+:customer-references: yes
+
+//Define epic sections needed
+:people: yes
+:discovery: yes
+:security: yes
+:environment-setup: yes
+:software-deployment: yes
+:networking: yes
+:data-migration: yes
+:database-migration: yes
+:testing: yes
+:operational-integration: yes
+:cutover: yes
+:on-boarding: yes

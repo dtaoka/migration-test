@@ -1,0 +1,16 @@
+=== Epic: Security & Compliance
+
+Overview of security and compliance activities
+
+* Encryption (Data at rest/In motion) activities
+* Compliance requirements activities
+
+
+[cols=",,,",options="header",]
+|===
+|Task/Activity |Description |Skills/Role Required |Estimated Duration
+| | | |
+| | | |
+| | | |
+|===
+

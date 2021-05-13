@@ -1,0 +1,10 @@
+== Summary 
+
+*ACTION:* Provide a summary with the goal of documenting the end to end high level description of the migration. Be sure to identify the business drivers or value add you see that fit the workload migration. Common business drivers are available in Appendix. Include high level details that the playbook addresses from Epics.
+
+=== Summary guideline checklist
+* What problem workload solves 
+* How customers use the ISV workload
+* Business drivers
+* Who is it intended for
+* Migration description
